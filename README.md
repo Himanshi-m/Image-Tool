@@ -39,12 +39,12 @@ This Python-based Image tool, built using **Streamlit**, allows users to perform
 - `streamlit-cropper`
 
 ### SCREENSHOTS
-![image](https://github.com/user-attachments/assets/3900c172-722d-417a-ab00-b99d9cb32569)
-![Screenshot_5-10-2024_172211_localhost](https://github.com/user-attachments/assets/bbafb96d-8418-4455-985c-c8fbcc371896)
-![image](https://github.com/user-attachments/assets/6d06c6f7-06b0-4804-a686-f703ac85600f)
-![image](https://github.com/user-attachments/assets/92d18dad-f108-420e-93f2-cfebd30fb171)
-![image](https://github.com/user-attachments/assets/04589bab-1172-4333-b21d-5f588138bbad)
-![image](https://github.com/user-attachments/assets/d4f2f013-9886-4e3f-a77b-8f25b458b3cb)
+![image](https://github.com/user-attachments/assets/c44b1640-ab7d-4915-9c58-8149a209db24)
+![image](https://github.com/user-attachments/assets/447f928c-c2be-4951-b879-42514f7b761e)
+![image](https://github.com/user-attachments/assets/9ae6f7e6-6643-43cb-b324-c41592b10566)
+![image](https://github.com/user-attachments/assets/a8982ded-ed98-4b18-b23b-9f3a44307f97)
+![image](https://github.com/user-attachments/assets/d981d58c-f040-4934-8e97-7e2eb5f59e88)
+![image](https://github.com/user-attachments/assets/559dd9bc-8e94-48ef-a138-91a17cf45003)
 
 
 ## CONCLUSION
