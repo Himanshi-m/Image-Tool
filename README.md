@@ -1,6 +1,6 @@
 # Image Manipulation Tool
 
-This Python-based Image tool, built using **Streamlit**, allows users to perform various image manipulation tasks such as resizing, cropping, format conversion, and enhancement. With an intuitive, web-based interface, users can make adjustments with real-time previews. This tool is designed for single-image processing, providing a simple yet powerful platform for common image editing tasks.
+This Python-based Image tool, built using **Streamlit**, allows users to perform various image manipulation tasks such as resizing, cropping, format conversion, background removal, and enhancement. With an intuitive, web-based interface, users can make adjustments with real-time previews. This tool is designed for single-image processing, providing a simple yet powerful platform for common image editing tasks.
 
 **Approach:**
 - The project started with research into image manipulation using Python libraries like `Pillow` and `Streamlit`. 
@@ -17,6 +17,7 @@ This Python-based Image tool, built using **Streamlit**, allows users to perform
 2. **Image Cropping**: Provides an interactive cropping tool using `streamlit-cropper` with aspect ratio control.
 3. **Format Conversion**: Converts images to popular formats like JPEG, PNG, BMP, and GIF.
 4. **Enhancement**: Adjust brightness, contrast, sharpness, and color.
+5. **Bulk Background Remover**: Takes bulk images and removes their background.
 
 ### WHAT I HAVE DONE
 1. Researched tools like `Streamlit` and `Pillow` for image manipulation.
@@ -26,6 +27,7 @@ This Python-based Image tool, built using **Streamlit**, allows users to perform
 5. Implemented format conversion with compression quality controls.
 6. Enabled image enhancement options (brightness, contrast, sharpness, color).
 7. Ensured images can be saved and downloaded after edits.
+8. Enabled bulk background remover with zip download all images option.
 
 ### PROJECT TRADE-OFFS AND SOLUTIONS
 1. **Trade-off 1**: Keeping the interface simple vs. adding advanced features.  
@@ -36,6 +38,9 @@ This Python-based Image tool, built using **Streamlit**, allows users to perform
 ### LIBRARIES NEEDED
 - `streamlit`
 - `Pillow`
+- `rembg`
+- `opencv-python-headless`
+- `numpy`
 - `streamlit-cropper`
 
 ### SCREENSHOTS
