@@ -1,10 +1,6 @@
 # Image Manipulation Tool
 
-## AIM
-To provide an intuitive Python-based image editing tool using **Streamlit**, allowing users to resize, crop, convert, and enhance images with real-time previews.
-
-## DESCRIPTION
-This project aims to create a simple yet powerful tool for manipulating images. Image manipulation is necessary for a variety of use cases such as preparing images for websites, social media, or applications where specific formats or dimensions are required. It can save users time by offering an all-in-one interface to perform basic editing tasks without needing advanced software.
+This Python-based Image tool, built using **Streamlit**, allows users to perform various image manipulation tasks such as resizing, cropping, format conversion, and enhancement. With an intuitive, web-based interface, users can make adjustments with real-time previews. This tool is designed for single-image processing, providing a simple yet powerful platform for common image editing tasks.
 
 **Approach:**
 - The project started with research into image manipulation using Python libraries like `Pillow` and `Streamlit`. 
